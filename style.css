@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    background-color: lightcoral;
+    text-align: center;
+    margin: 0.5rem 0;
+}
+
+h2{
+    margin: 1.25rem 0 0.75rem 0;
+    padding-left: 1.5rem;
+    background-color: aquamarine;
+}
+
+p{
+    margin-left: 2rem;    
+}
+
+ul, ol{
+    margin: 1rem 0 0 2rem;
+}
+
+ul a{
+    color: blue;
+    text-decoration: none;
+    padding: 3px;
+}
+
+#index-ul li{
+    font-size: 20px;
+    margin-bottom: 0.3rem;
+}
+
+ul a:hover{
+    color: red;
+}
+
+img{
+    margin-left: 3rem;
+    max-width: 100%;
+}
